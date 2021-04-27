@@ -1,0 +1,52 @@
+#cuadrado{
+	 width: 100px; 
+     height: 100px; 
+     border: 3px solid #555;
+     margin: 3%;
+     
+}
+#cuerpo{
+	display: flex;
+	justify-content: center;
+
+}
+#contenedor{
+	width: 40%;
+}
+#imagen{
+	min-height: 400px;
+	min-width: 40%;
+	background-color: black;
+	display: block;
+	
+	background-repeat: no-repeat;
+}
+.uno:hover{
+	background-color: red;
+}
+.dos:hover{
+	background-color: blue;
+}
+.tres:hover{
+	background-color: green;
+}
+.cuatro:hover{
+	background-color: yellow;
+}
+.uno2:hover{
+	background-color: pink;
+}
+.dos2:hover{
+	background-color: brown;
+}
+.tres2:hover{
+	background-color: grey;
+}
+.cuatro2:hover{
+	background-color: purple;
+}
+#actividad{
+
+	display: flex;
+	
+}
